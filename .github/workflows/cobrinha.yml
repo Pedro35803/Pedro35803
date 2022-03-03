@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "* */0.1 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Pedro/snk@master
+      - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: pedro35803
