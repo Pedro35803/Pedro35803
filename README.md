@@ -35,8 +35,8 @@
 <div>
   <a href="https://www.linkedin.com/in/pedro-pereira-de-morais-j%C3%BAnior-4bb7bb213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrojuniorifpb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.codewars.com/users/Pedro35803"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
   <a href = "https://stackoverflow.com/users/19384929/pedro"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-<!--   <a href = "https://www.codewars.com/users/Pedro35803"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a> -->
   
   ![Snake animation](https://github.com/pedro35803/pedro35803/blob/output/github-contribution-grid-snake.svg)
 </div>
