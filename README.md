@@ -41,5 +41,9 @@
   <a href = "https://www.codewars.com/users/Pedro358"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
   <a href = "https://stackoverflow.com/users/19384929/pedro"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/pedro35803/pedro35803/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pedro35803/Pedro35803/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pedro35803/Pedro35803/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Pedro35803/Pedro35803/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
